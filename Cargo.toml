@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Susumu Yamazaki <zacky1972@gmail.com>"]
 
 [dependencies]
+accel = "0.1.0"
+accel-derive = "0.1.0"
