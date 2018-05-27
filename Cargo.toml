@@ -1,0 +1,6 @@
+[package]
+name = "test_cuda"
+version = "0.1.0"
+authors = ["Susumu Yamazaki <zacky1972@gmail.com>"]
+
+[dependencies]
